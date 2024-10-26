@@ -1,0 +1,27 @@
+{
+    "name": "com.campstudio.unityiosscreenshield",
+    "version": "1.0.0",
+    "displayName": "Unity iOS Screen Shield",
+    "description": "Easy screen shield for iOS apps",
+    "unity": "2022.3",
+    "unityRelease": "34f1",
+    "documentationUrl": "https://github.com/Camper-code/UnityIOSScreenShield/blob/master/README.md",
+    "changelogUrl": "https://github.com/Camper-code/UnityIOSScreenShield/blob/master/CHANGEOG.md",
+    "licensesUrl": "https://github.com/Camper-code/UnityIOSScreenShield/blob/master/LICENSE",
+   "keywords": [
+      "Screen",
+      "screen",
+      "Shield",
+      "shield",
+      "Screen Shield",
+      "Screen shield",
+      "screen shield",
+      "Camp",
+      "CampStudio"
+    ],
+    "author": {
+      "name": "Serhii",
+      "email": "CampStudioMail@gmail.com",
+      "url": "https://www.campstudio.net"
+    }
+  }
